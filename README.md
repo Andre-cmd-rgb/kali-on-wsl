@@ -11,4 +11,4 @@ reboot
 
 open kali linux app
 
-and then type `sudo apt update && sudo apt install git && git clone https://github.com/Andre-cmd-rgb/kali-on-wsl.git && cd kali-on-wsl && chmod +x Install.sh ./Install.sh`
+and then type `sudo apt update && sudo apt install git && git clone https://github.com/Andre-cmd-rgb/kali-on-wsl.git && cd kali-on-wsl && chmod +x Install.sh && ./Install.sh`
