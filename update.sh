@@ -1,0 +1,3 @@
+rm *
+cd ..
+git clone 
