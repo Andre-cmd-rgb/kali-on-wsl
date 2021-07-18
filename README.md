@@ -5,4 +5,4 @@ open apps and functionalities
 activate wsl (windows subsystem for linux)
 reboot
 open kali linux app
-and then type `sudo apt update && sudo apt install git && git clone `
+and then type `sudo apt update && sudo apt install git && git clone https://github.com/Andre-cmd-rgb/kali-on-wsl.git && cd kali-on-wsl && chmod +x install.sh ./install.sh`
